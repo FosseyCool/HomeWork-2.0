@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork  Двоичный поиск", "HomeWork 2\HomeWork  Двоичный поиск.csproj", "{1E9A28BC-4064-4590-A349-7ACDFB1E6262}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork Двусвязный список", "HomeWork Двусвязный список\HomeWork Двусвязный список.csproj", "{C3CCD0DD-8F57-48FD-BB2E-25BAA210D291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9A28BC-4064-4590-A349-7ACDFB1E6262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9A28BC-4064-4590-A349-7ACDFB1E6262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9A28BC-4064-4590-A349-7ACDFB1E6262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9A28BC-4064-4590-A349-7ACDFB1E6262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CCD0DD-8F57-48FD-BB2E-25BAA210D291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CCD0DD-8F57-48FD-BB2E-25BAA210D291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CCD0DD-8F57-48FD-BB2E-25BAA210D291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CCD0DD-8F57-48FD-BB2E-25BAA210D291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C42D9DD-0482-4ECB-9E36-22E9CFCEDADC}
+	EndGlobalSection
+EndGlobal
